@@ -6,10 +6,13 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@cap-js/hana": "^1",
     "@sap/cds": "^8",
-    "express": "^4",
+    "@sap/cds-common-content": "^2.1.0",
+    "@sap/hdi-deploy": "^5.2.3",
     "@sap/xssec": "^4",
-    "@cap-js/hana": "^1"
+    "express": "^4",
+    "hdb": "^0.19.9"
   },
   "devDependencies": {
     "@cap-js/cds-types": "^0.6",
