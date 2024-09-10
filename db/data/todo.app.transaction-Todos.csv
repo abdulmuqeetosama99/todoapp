@@ -1,0 +1,11 @@
+ID,Title,Description,Status,DueDate,employee_EMPID
+1,Marketing Task 1,Complete a market analysis,Completed,2024-09-15,1
+2,Development Task 1,Develop product roadmap,InProgress,2024-10-20,2
+3,Development Task 2,Design user interface,Pending,2024-11-05,5
+4,Testing Task 1,Conduct user testing,Initialized,2024-12-10,3
+5,Marketing Task 2,Write marketing copy,InProgress,2024-11-25,2
+6,Marketing Task 3,Create social media campaign,Pending,2024-12-20,1
+7,Sales Task 1 ,Develop sales pitch,Completed,2024-09-30,4
+8,Development Task 3,Build website,InProgress,2024-10-15,3
+9,Marketing Task 4,Launch product,Initialized,2024-12-01,2
+10,Sales Task 2,Analyze sales performance,Pending,2025-01-15,6

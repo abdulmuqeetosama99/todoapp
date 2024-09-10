@@ -1,0 +1,7 @@
+EMPID,firstname,lastname,email,gender,contact,department_code,addresses_ID
+1,MD,Noushad,Noushad.md@yash.com,M,+919876543214,ABAP,1
+2,M,Ravali,ravali.m@yash.com,F,+919876543211,Fiori,2
+3,K,Pavan,pavan.k@yash.com,M,+919876543212,CPI,3
+4,Prasana,R,Prasana.R@yash.com,F,+919876543213,Fiori,4
+5,A,Bharati,Bharati.a@yash.com,F,+919876543214,ABAP,5
+6,A,Rakesh,Rakesh.a@yash.com,M,+919876543215,CPI,6
